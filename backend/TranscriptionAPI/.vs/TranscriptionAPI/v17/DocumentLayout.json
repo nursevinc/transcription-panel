@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\model\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:model\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\controllers\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:controllers\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TranscriptionDB/True/SqlTable/dbo.Audios.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\model\\useractionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:model\\useractionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\model\\audiofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:model\\audiofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\transcriptionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:transcriptionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TranscriptionDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|c:\\users\\nur\\source\\repos\\transcriptionapi\\model\\transcription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06B778B-3A5B-4F18-ADF3-E85A0546B07C}|TranscriptionAPI.csproj|solutionrelative:model\\transcription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\hata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:53:53.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:22:40.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:29:41.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AudioFile.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Model\\AudioFile.cs",
+              "RelativeDocumentMoniker": "Model\\AudioFile.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Model\\AudioFile.cs",
+              "RelativeToolTip": "Model\\AudioFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:21:08.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioController.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Controllers\\AudioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AudioController.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Controllers\\AudioController.cs",
+              "RelativeToolTip": "Controllers\\AudioController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:24:22.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Model\\Audio.cs",
+              "RelativeDocumentMoniker": "Model\\Audio.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Model\\Audio.cs",
+              "RelativeToolTip": "Model\\Audio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:23:11.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAMwF4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:23:16.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Audios.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TranscriptionDB/True/SqlTable/dbo.Audios.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TranscriptionDB/True/SqlTable/dbo.Audios.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-18T19:59:03.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserActionLog.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Model\\UserActionLog.cs",
+              "RelativeDocumentMoniker": "Model\\UserActionLog.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Model\\UserActionLog.cs",
+              "RelativeToolTip": "Model\\UserActionLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:22:01.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:20:38.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:25:42.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "hata.txt",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\hata.txt",
+              "RelativeDocumentMoniker": "hata.txt",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\hata.txt",
+              "RelativeToolTip": "hata.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-18T15:32:45.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TranscriptionAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\TranscriptionAPI.csproj",
+              "RelativeDocumentMoniker": "TranscriptionAPI.csproj",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\TranscriptionAPI.csproj",
+              "RelativeToolTip": "TranscriptionAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T16:26:41.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "Services\\LogService.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Services\\LogService.cs",
+              "RelativeToolTip": "Services\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:02:12.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T13:46:56.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T19:23:01.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TranscriptionDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TranscriptionDB/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-18T14:46:59.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Transcription.cs",
+              "DocumentMoniker": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Model\\Transcription.cs",
+              "RelativeDocumentMoniker": "Model\\Transcription.cs",
+              "ToolTip": "C:\\Users\\NUR\\source\\repos\\TranscriptionAPI\\Model\\Transcription.cs",
+              "RelativeToolTip": "Model\\Transcription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:21:29.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

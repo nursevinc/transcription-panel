@@ -1,0 +1,8 @@
+<h2>Dosya Yükle</h2>
+<form (ngSubmit)="upload()" #uploadForm="ngForm">
+  <input type="file" (change)="onFileSelected($event)" required />
+  <br /><br />
+  <button type="submit" [disabled]="!selectedFile">Yükle</button>
+</form>
+
+<p *ngIf="uploadMessage">{{ uploadMessage }}</p>

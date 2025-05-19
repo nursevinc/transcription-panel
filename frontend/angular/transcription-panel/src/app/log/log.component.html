@@ -1,0 +1,17 @@
+<h2>Log Kayıtları</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Kullanıcı</th>
+      <th>İşlem</th>
+      <th>Tarih</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let log of logs">
+      <td>{{ log.userName }}</td>
+      <td>{{ log.action }}</td>
+      <td>{{ log.timestamp | date:'short' }}</td>
+    </tr>
+  </tbody>
+</table>

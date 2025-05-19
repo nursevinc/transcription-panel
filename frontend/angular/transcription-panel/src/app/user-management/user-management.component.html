@@ -1,0 +1,34 @@
+<h2>Kullanıcı Yönetimi</h2>
+
+<form (ngSubmit)="addUser()" #userForm="ngForm">
+  <label>Kullanıcı Adı:
+    <input type="text" [(ngModel)]="newUser.username" name="username" required />
+  </label>
+  <label>Şifre:
+    <input type="password" [(ngModel)]="newUser.password" name="password" required />
+  </label>
+  <label>Rol:
+    <select [(ngModel)]="newUser.role" name="role">
+      <option value="admin">Admin</option>
+      <option value="editor">Editör</option>
+    </select>
+  </label>
+  <button type="submit" [disabled]="userForm.invalid">Ekle</button>
+</form>
+
+<hr>
+
+<table border="1" cellpadding="5">
+  <tr>
+    <th>ID</th>
+    <th>Kullanıcı Adı</th>
+    <th>Rol</th>
+    <th>İşlem</th>
+  </tr>
+  <tr *ngFor="let user of users">
+    <td>{{ user.id }}</td>
+    <td>{{ user.username }}</td>
+    <td>{{ user.role }}</td>
+    <td><button (click)="deleteUser(user.id)">Sil</button></td>
+  </tr>
+</table>

@@ -1,0 +1,19 @@
+<div class="login-container">
+    <h2>Giriş Yap</h2>
+    <form (ngSubmit)="login()" #loginForm="ngForm">
+      <label>
+        Kullanıcı Adı:
+        <input type="text" name="username" [(ngModel)]="username" required />
+      </label>
+      <br />
+      <label>
+        Şifre:
+        <input type="password" name="password" [(ngModel)]="password" required />
+      </label>
+      <br /><br />
+      <button type="submit" [disabled]="loginForm.invalid">Giriş Yap</button>
+    </form>
+  
+    <p *ngIf="errorMessage" style="color: red;">{{ errorMessage }}</p>
+  </div>
+  

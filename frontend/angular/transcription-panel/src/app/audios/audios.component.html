@@ -1,0 +1,17 @@
+<h2>Ses Dosyaları</h2>
+
+<div *ngFor="let audio of audios" class="audio-card" style="margin-bottom: 2rem; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
+  <h3>{{ audio.fileName }}</h3>
+
+  <audio controls [src]="'https://localhost:7069' + audio.filePath" style="width: 100%;"></audio>
+
+  <br /><br />
+  <label for="transcription">Transkripsiyon:</label><br />
+  <textarea [(ngModel)]="audio.transcription"
+            rows="4"
+            cols="60"
+            style="width: 100%; font-family: monospace; padding: 0.5rem; border-radius: 4px;"></textarea>
+
+  <br /><br />
+  <button (click)="saveTranscription(audio)">Kaydet</button>
+</div>
