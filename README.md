@@ -1,6 +1,5 @@
 # Transcription Panel 
-
-Çizgi Teknoloji Yazılım Stajyeri Case Study kapsamında geliştirilen basit bir ses transkripsiyon yönetim panelidir.
+ Yazılım Stajyeri Case Study kapsamında geliştirilen basit bir ses transkripsiyon yönetim panelidir.
 
 ##  Kullanılan Teknolojiler
 
