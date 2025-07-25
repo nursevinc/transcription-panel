@@ -1,5 +1,5 @@
 # Transcription Panel 
- Yazılım Stajyeri Case Study kapsamında geliştirilen basit bir ses transkripsiyon yönetim panelidir.
+
 
 ##  Kullanılan Teknolojiler
 
